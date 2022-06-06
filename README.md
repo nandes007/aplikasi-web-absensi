@@ -12,7 +12,7 @@ Untuk aplikasi menggunakan template argon bootstrap
 2. Masuk ke directory aplikasi
 3. Jalankan script berikut "php config/seed.php". Script berikut untuk membuat akun admin dan satu data dummy karyawan.
 4. Setelah berada di directory aplikasi, masuk ke direcory public "cd /public", lalu jalankan script berikut di command "php localhost:8080" untuk menjalankan aplikasi di lokal server.
-5. Buka aplikasi dengan url "localhost:8008" pada web browser untuk menjalankan aplikasi.
+5. Buka aplikasi dengan url "localhost:8080" pada web browser untuk menjalankan aplikasi.
 6. Selesai.
 
 # User guide
